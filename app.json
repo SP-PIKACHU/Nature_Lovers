@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sipakisking/Nature_Lovers",
-  "website": "https://github.com/sipakisking",
-  "success_url": "https://t.me/kuch_bhi",
+  "repository": "https://github.com/SP-PIKACHU/Nature_Lovers",
+  "website": "https://github.com/SP-PIKACHU",
+  "success_url": "",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
